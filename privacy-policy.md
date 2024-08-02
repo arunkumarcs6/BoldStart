@@ -1,59 +1,34 @@
-# Bold Start
+Privacy Policy for Bold Start Chrome Extension
 
-Bold Start is a Chrome extension designed to supercharge your reading speed. By making the first two characters of every word bold, it creates visual anchors that help your eyes quickly identify word boundaries, potentially tripling your reading speed.
+Last Updated: [08/02/2024]
 
-## Read 3x Faster
+1. Introduction
+   Bold Start ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how our Chrome extension handles information.
 
-- Instantly bolds the first two letters of each word across all websites
-- Helps your eyes quickly grab whole words, reducing fixation time
-- Trains your brain to process information more efficiently
-- Perfect for students, professionals, and avid readers looking to save time
+2. Information Collection and Use
+   Bold Start does not collect, store, or transmit any personal data or browsing information. The extension operates entirely within your browser.
 
-## Features
+   2.1 Local Storage: We use Chrome's storage API to save your preferences (such as enabled/disabled state) locally on your device. This information never leaves your browser.
 
-- Automatic bold formatting on all web pages
-- Customizable whitelist and blacklist for specific sites
-- Simple toggle on/off for when you need it most
-- Lightweight design with minimal impact on page load times
+3. Data Processing
+   All text processing occurs locally in your browser. We do not have access to the content of the web pages you visit or modify.
 
-## Installation
+4. Permissions
+   4.1 activeTab: This permission allows the extension to modify the appearance of web pages in the active tab when you activate the extension. We cannot access your browsing history or data on other tabs.
+   4.2 storage: This allows us to save your preferences locally.
 
-1. Visit the [Bold Start Chrome Web Store page](your_webstore_link_here)
-2. Click "Add to Chrome" to install
-3. Start reading at hyperspeed!
+5. Third-Party Access
+   We do not share any data with third parties because we do not collect any data.
 
-## How It Works
+6. Children's Privacy
+   Our extension is not designed for, nor do we intentionally collect any data from, users under the age of 13.
 
-1. Bold Start activates automatically on web pages
-2. The first two characters of each word become bold
-3. Your eyes learn to jump from bold to bold, increasing reading pace
-4. With practice, watch your reading speed potentially triple!
+7. Changes to This Privacy Policy
+   We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last Updated" date.
 
-## Tips for Speed Reading with Bold Start
+8. Your Rights
+   As we don't collect any personal data, there is no personal information for you to access, modify, or delete. You can uninstall the extension at any time to remove all local preferences.
 
-1. Use a pointer (your mouse or finger) to guide your eyes
-2. Try to "chunk" words together rather than reading individually
-3. Practice regularly to build your speed reading muscles
-4. Use the whitelist feature for your most-visited reading sites
-
-## Customize Your Experience
-
-- Toggle the extension on/off with a single click
-- Whitelist your favorite reading sites
-- Blacklist sites where you prefer normal text
-
-## Privacy
-
-Bold Start respects your privacy. It doesn't collect, store, or transmit any of your data. All text processing happens right in your browser.
-
-## Support
-
-Experiencing issues or have ideas to make Bold Start even faster? Open an issue on our GitHub page.
-
-## License
-
-Bold Start is released under the [MIT License](LICENSE).
-
----
-
-Ready to supercharge your reading? Install Bold Start now and start blazing through content at record speeds!
+9. Contact Us
+   If you have any questions about this Privacy Policy, please contact us at:
+   [Your Contact Email or Website]
